@@ -5,6 +5,7 @@
 .input {
   font-family: 'Poppins', sans-serif;
   flex: 1;
+  width: calc(100% - 30px);
   margin-right: 8px;
 
   box-shadow: var(--main-box-shadow);
