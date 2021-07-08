@@ -1,0 +1,4 @@
+.greet {
+  color: var(--main-font-color);
+  margin-bottom: 1rem;
+}

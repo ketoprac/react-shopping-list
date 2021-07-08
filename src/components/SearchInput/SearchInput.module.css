@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+}
+
+.input {
+  font-family: 'Poppins', sans-serif;
+  flex: 1;
+  margin-right: 8px;
+
+  box-shadow: var(--main-box-shadow);
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+
+  color: var(--main-font-color);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.addButton {
+  font-family: 'Poppins', sans-serif;
+  border: none;
+  border-radius: 8px;
+
+  color: var(--secondary-font-color);
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+  width: 80px;
+  background-color: var(--main-background-color);
+  box-shadow: var(--main-box-shadow);
+}
